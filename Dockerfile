@@ -6,6 +6,7 @@ RUN apt update && apt upgrade -y && \
         curl \
         ffmpeg \
         git \
+        gcc \
         libjpeg62-turbo-dev \
         libwebp-dev \
         musl-dev \
